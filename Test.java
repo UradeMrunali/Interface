@@ -5,7 +5,7 @@ void b();
 void c();  
 void d();  
 }  
-  
+
 //Creating abstract class that provides the implementation of one method of A interface  
 abstract class B implements Q{  
 public void c()

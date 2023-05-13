@@ -14,7 +14,6 @@ public void c()
 	}  
 }  
   
-
 //Creating subclass of abstract class, now we need to provide the implementation of rest of the methods  
 class M extends B{  
 public void a()
